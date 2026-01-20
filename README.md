@@ -25,3 +25,8 @@ This project classifies SMS messages as Spam or Ham using Natural Language Proce
 2. Run all cells in order
 
 ## ✨ Sample Prediction
+"Congratulations! You won a free ticket" → Spam
+"Can we talk tomorrow?" → Not Spam
+
+## 📌 Author
+Adithyan R
