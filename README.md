@@ -30,3 +30,4 @@ This project classifies SMS messages as Spam or Ham using Natural Language Proce
 
 ## 📌 Author
 Adithyan R
+adithyanr041@gmail.com
