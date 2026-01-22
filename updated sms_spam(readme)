@@ -1,0 +1,7 @@
+## 🔥 GenAI Upgrade
+This project also includes a Transformer-based spam classifier using
+Hugging Face zero-shot classification (BERT).
+
+### Comparison
+- TF-IDF + Logistic Regression (Classical NLP)
+- Transformer Zero-Shot Classification (Modern GenAI)
